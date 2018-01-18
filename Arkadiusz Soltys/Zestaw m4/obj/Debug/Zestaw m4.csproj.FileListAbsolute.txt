@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\bin\Debug\Zestaw m4.exe.config
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\bin\Debug\Zestaw m4.exe
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\bin\Debug\Zestaw m4.pdb
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\obj\Debug\Zestaw m4.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\obj\Debug\Zestaw m4.exe
+C:\Users\local\Desktop\Arkadiusz Soltys\Zestaw m4\obj\Debug\Zestaw m4.pdb
